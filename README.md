@@ -1,1 +1,1 @@
-# Predictive Analytics
+# Financial Distress Prediction using Logistics Regression
